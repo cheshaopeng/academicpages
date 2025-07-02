@@ -1,7 +1,7 @@
 ---
 title: "Impact of ByteDance Crisis Communication Strategies on Different Social Mdia Users"
 collection: publications
-category: mamuscript
+category: mamuscripts
 permalink: 'https://www.nature.com/articles/s41599-023-02170-3'
 date: 2023-10-21
 venue: 'Humanities and Social Sciences Communications'
