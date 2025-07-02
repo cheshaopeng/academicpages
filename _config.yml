@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shaopeng Che 车少鹏 차소봉"
+title                    : "Shaopeng Che\n车少鹏\n차소봉"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
