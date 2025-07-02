@@ -2,7 +2,7 @@
 title: "How public health agencies communicate with the public on TikTok under the normalization of COVID-19: A case of 2022 Shanghai's outbreak"
 collection: publications
 category: manuscripts
-permalink: https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.1039405/full
+permalink: 'https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.1039405/full'
 date: 2022-11-24
 venue: 'Frontiers in Public Health'
 citation: 'Che, S., Zhang, S., & Kim, J. H. (2022). How public health agencies communicate with the public on TikTok under the normalization of COVID-19: A case of 2022 Shanghai's outbreak. Frontiers in Public Health, 10, 1039405.'
